@@ -1,1 +1,1 @@
-console.log("hello git first project");
+console.log("hello git second project");
